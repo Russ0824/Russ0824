@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Data-Driven Modeling.
 - 🎓 &nbsp; Studying Statistics, Computer Science and Mathematics.
 - 🌱 &nbsp; Enthusiast in Statistical Machine Learning and Medical Computer Vision.
-- 🏀 &nbsp; I belive, playing basketball can be the ultimate solution for any stress. 
+- 🏀 &nbsp; I believe, playing basketball can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
