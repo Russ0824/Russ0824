@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Data-Driven Modeling.
+- 🔭 &nbsp; I’m currently learning Data-Driven Modeling in HKUST.
 - 🎓 &nbsp; Studying Statistics, Computer Science and Mathematics.
 - 🌱 &nbsp; Enthusiast in Statistical Machine Learning and Medical Computer Vision.
 - 🏀 &nbsp; I believe, playing basketball can be the ultimate solution for any stress. 
