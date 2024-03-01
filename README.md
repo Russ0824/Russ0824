@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Data-Driven Modeling in HKUST.
-- 🎓 &nbsp; Studying Statistics, Computer Science and Mathematics.
-- 🌱 &nbsp; Enthusiast in Statistical Machine Learning and Medical Computer Vision.
+- 🎓 &nbsp; Studying Computer Science and Mathematics.
+- 🌱 &nbsp; Enthusiast in Statistical Machine Learning and LLM for Data Visualization.
 - 🏀 &nbsp; I believe, playing basketball can be the ultimate solution for any stress. 
 - 🌐 &nbsp; Welcome to visit my homepage: [zwanah.github.io/](https://zwanah.github.io/)
 
