@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Data-Driven Modeling in HKUST.
+- 🔭 &nbsp; I’m currently learning Computer Science in PolyU.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
 - 🌱 &nbsp; Enthusiast in LLM for Data Visualization.
 - 🏀 &nbsp; I believe, playing basketball can be the ultimate solution for any stress. 
